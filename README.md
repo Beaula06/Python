@@ -1,2 +1,1 @@
-# Python
-MY PYTHON
+PYTHON
